@@ -9,4 +9,4 @@
 * Video
 * Images
 
-I have compleated all the above task in my project
+I have completed all the above task in my project
